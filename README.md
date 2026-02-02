@@ -1,6 +1,6 @@
 # Task 11: Phishing Attack Simulation
 
-**Intern Name:** Mohammed Fadil PK
+**Name:** Mohammed Fadil PK
 **Date:** February 2, 2026
 
 ## 📄 Project Description
